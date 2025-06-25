@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-socketio[asyncio_client]==5.9.0
+redis>=4.5.0
+httpx
+dotenv
